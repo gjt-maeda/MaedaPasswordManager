@@ -24,12 +24,12 @@ namespace MaedaPasswordManager
 
         private void label1_Click(object sender, EventArgs e)
         {
-            Clipboard.SetText("b23164");
+            
         }
 
         private void label1_Click_1(object sender, EventArgs e)
         {
-            Clipboard.SetText("b23164@kagoshima.kosen-ac.jp");
+            
         }
 
         private void label1_Click_2(object sender, EventArgs e)
@@ -39,17 +39,17 @@ namespace MaedaPasswordManager
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Clipboard.SetText("b23164");
+            Clipboard.SetText("YOUR ID");
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Clipboard.SetText("b23164@kagoshima.kosen-ac.jp");
+            Clipboard.SetText("YOUR E-MAIL ADDRES");
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Clipboard.SetText("nae6Zoh5Voh8heiy");
+            Clipboard.SetText("YOUR PASSWORD");
         }
 
         private void label2_Click(object sender, EventArgs e)
@@ -69,7 +69,7 @@ namespace MaedaPasswordManager
 
         private void button5_Click(object sender, EventArgs e)
         {
-            Clipboard.SetText("6sa6cCY4YO");
+            Clipboard.SetText("YOUR MOODLE PASSWORD");
         }
 
         private void label5_Click(object sender, EventArgs e)
@@ -79,7 +79,7 @@ namespace MaedaPasswordManager
 
         private void button6_Click(object sender, EventArgs e)
         {
-            Clipboard.SetText("b23164");
+            Clipboard.SetText("YOUR ID");
         }
 
         private void button4_Click(object sender, EventArgs e)
