@@ -206,7 +206,7 @@
             this.richTextBox1.Name = "richTextBox1";
             this.richTextBox1.Size = new System.Drawing.Size(362, 207);
             this.richTextBox1.TabIndex = 0;
-            this.richTextBox1.Text = "製品名:MaedaPasswordManager\n製品バージョン:Alpha 1.2\n更新日時:2023/4/9\n言語:C#";
+            this.richTextBox1.Text = "製品名:MaedaPasswordManager\n製品バージョン:Alpha 1.3\n更新日時:2023/11/21\n言語:C#";
             this.richTextBox1.TextChanged += new System.EventHandler(this.richTextBox1_TextChanged);
             // 
             // Form1
@@ -220,7 +220,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.Name = "Form1";
-            this.Text = "MPM Alpha 1.2";
+            this.Text = "MPM Alpha 1.3";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.tabControl1.ResumeLayout(false);
             this.tabPage2.ResumeLayout(false);
